@@ -76,4 +76,5 @@ Enter the program and save it.
 Execute the code.
 Debug errors if any and re-run.
 Observe the generated waveforms.
+
 MODEL GRAPHS:
