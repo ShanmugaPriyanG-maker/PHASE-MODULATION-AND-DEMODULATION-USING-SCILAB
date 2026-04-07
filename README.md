@@ -77,10 +77,18 @@ Execute the code.
 Debug errors if any and re-run.
 Observe the generated waveforms.
 
-MODEL GRAPHS
+OUTPUT GRAPH
+<img width="2880" height="1696" alt="pm" src="https://github.com/user-attachments/assets/0b8f818e-2c4e-4d80-b81f-7ffc81dedc8c" />
+
 
 TABULATIONS
+<img width="1280" height="858" alt="image" src="https://github.com/user-attachments/assets/61d2f0c1-eb7e-4543-99fb-3330086bb551" />
+
+
 
 CALCULATIONS
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/032c7cbe-bbbb-4303-a8fd-0cfc8ccabb94" />
 
 RESULT
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/68c4e5fe-d639-4d7c-a7a1-8a8cd31a1f7a" />
+
